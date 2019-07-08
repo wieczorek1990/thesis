@@ -1,0 +1,8 @@
+#!/bin/bash
+./test.sh test/big ../qt/classifier.py ../qt/classifier.xml
+./test.sh test/small/whole ../qt/classifier.py ../qt/classifier.xml
+./test.sh test/small/half ../qt/classifier.py ../qt/classifier.xml
+./test.sh test/small/quarter ../qt/classifier.py ../qt/classifier.xml
+./test.sh test/small/eighth ../qt/classifier.py ../qt/classifier.xml
+./test.sh test/small/sixteenth ../qt/classifier.py ../qt/classifier.xml
+./test.sh test/small/thirty-second ../qt/classifier.py ../qt/classifier.xml

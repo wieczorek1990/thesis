@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qt">
+        <file>classifier.py</file>
+        <file>classifier.xml</file>
+        <file>next.png</file>
+        <file>nextMeasure.png</file>
+        <file>prev.png</file>
+        <file>prevMeasure.png</file>
+        <file>back.png</file>
+    </qresource>
+</RCC>
